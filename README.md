@@ -5,7 +5,7 @@ A simple shell script to set up KVM for Ubuntu 10.04+
 1. `git clone https://github.com/crutchcorn/basickvmsetup.git`
 2. `cd basickvmsetup`
 3. `chmod +x ./kvminstall.sh`
-4. `./kvminstall.sh`
+4. `sudo ./kvminstall.sh`
 5. Log out, then log back in!
 
 
